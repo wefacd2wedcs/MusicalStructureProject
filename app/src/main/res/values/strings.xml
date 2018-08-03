@@ -1,0 +1,16 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Namie Amuro Album Player</string>
+
+    <!-- Album name for feel [CHAR LIMIT=20] -->
+    <string name="album_feel">Play Feel album</string>
+
+    <!-- Album name for the songs for ballada [CHAR LIMIT=20] -->
+    <string name="album_ballada">Play Ballada album</string>
+
+    <!-- Album name for the songs for genic [CHAR LIMIT=20] -->
+    <string name="album_genic">Play genic album</string>
+
+    <!-- Album name for the songs for finally  [CHAR LIMIT=20] -->
+    <string name="album_finally">Play Finally album</string>
+</resources>

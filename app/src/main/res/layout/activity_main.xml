@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.android.musicalstructureproject.MainActivity">
+
+    <TextView
+        android:id="@+id/genic"
+        style="@style/CategoryAlbum"
+        android:background="@color/category_genic"
+        android:text="@string/album_genic" />
+
+    <TextView
+        android:id="@+id/finall_y"
+        style="@style/CategoryAlbum"
+        android:background="@color/category_finally"
+        android:text="@string/album_finally" />
+
+    <TextView
+        android:id="@+id/ballada"
+        style="@style/CategoryAlbum"
+        android:background="@color/category_ballada"
+        android:text="@string/album_ballada" />
+
+    <TextView
+        android:id="@+id/feel"
+        style="@style/CategoryAlbum"
+        android:background="@color/category_feel"
+        android:text="@string/album_feel" />
+
+</LinearLayout>
